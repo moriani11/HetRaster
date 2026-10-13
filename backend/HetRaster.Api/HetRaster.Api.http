@@ -1,0 +1,6 @@
+@HetRaster.Api_HostAddress = http://localhost:5197
+
+GET {{HetRaster.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
